@@ -1,4 +1,4 @@
 allalala.github.io
 ==================
 
-WIP repo containing my personal website
+WIP repo containing some content for my personal website
